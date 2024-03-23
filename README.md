@@ -1,0 +1,2 @@
+# Remote-Controlled-LED-Using-HC-05-Bluetooth-Arduino-and-Mobile-Phone-App
+This project demonstrates a simple yet effective way to control an LED wirelessly using an Arduino, HC-05 Bluetooth module, and a custom mobile phone application. By integrating these components, users can remotely turn an LED on or off using their smartphone, showcasing the power and versatility of Bluetooth-based remote control systems.
